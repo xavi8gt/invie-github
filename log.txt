@@ -1,0 +1,23 @@
+commit 7a79647f1838dccf8c66cf0bb7b9af731dc98e65
+Author: xavi8gt <scruzjavier@gmail.com>
+Date:   Mon Jan 8 21:10:41 2018 -0600
+
+    agregando guitarra acustica
+
+commit e2b6d535efcb591519007db1480f82eba9951a7b
+Author: xavi8gt <scruzjavier@gmail.com>
+Date:   Mon Jan 8 21:04:45 2018 -0600
+
+    añadiendo nuevo hero
+
+commit 31886ebdbc63d2eb38c9e03da7191a1251198d13
+Author: xavi8gt <scruzjavier@gmail.com>
+Date:   Mon Jan 8 19:06:26 2018 -0600
+
+    agregando el header
+
+commit 6f142fb976e8ed102b5ac55dc8e3d71caac6b466
+Author: xavi8gt <scruzjavier@gmail.com>
+Date:   Mon Jan 8 18:41:32 2018 -0600
+
+    inicializar nuestro landing
