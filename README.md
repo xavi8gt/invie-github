@@ -1,3 +1,4 @@
-# invie-github
-Tus mejores Guitarras Invie-sibles de @PLATZI
+# invie
+Las guitarras más locas
 
+http://leonidasesteban.github.io/invie-responsive/
